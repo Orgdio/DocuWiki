@@ -1,23 +1,28 @@
-<!— TITLE: Module: Speed Governance -->
+====== Module: Speed Governance ======
 
 
-## State proposal
+
+==== State proposal ====
 
 In this section the person making the proposal will state the change they would like to propose. The proposer optionally also provide some background, their perspective on why they would like to make this change, why they think this proposal best suits their needs, or speak to anything they would like to speak to.
 
 Note that to be a valid proposal, that the proposal needs to be coming from an opportunity currently sensed in one of the proposers roles in the group. Any group member may ask the facilitator to test the validity of the proposal. To test the validity, the facilitator will ask the proposer to state the opportunity currently sensed in their role. The proposal is valid if the facilitator deems the proposal gave a reasonable answer to the question.
 
-## Open conversation
+==== Open conversation ====
 
 Open Conversation facilitated by a neutral party, adhering to the following tenants:
 
 * Group members should seek to understand the proposal fully before giving and thoughts or feedback. The facilitator should offer guidance if they think the group has jumped to quickly to thoughts and feedback.
+
 * Each person should focus their contributions to role's they hold within the group. The facilitator should offer guidance if they think a group member is speaking outside of their role.
+
 * Avoid discussing things that have already been discussed.
+
 * The proposal can be changed by the proposer at any time if the discussion helped them discover a proposal that would better suited in addressing the opportunity they are sensing.
+
 * The proposer can move on the proposal to the integration step at any time. The proposer should move the proposal forward if they feel as though they currently have the best possible proposal to address the opportunity they are sensing and further discussion would not improve the proposal.
 
-## Integration
+==== Integration ====
 
 Integration occurs when another person in the group senses that they have a perspective that needs to be integrated, and that not integrating their perspective would cause the organization harm.
 
@@ -28,6 +33,7 @@ The facilitator will ask the person who has a perspective to be integrated (peti
 The proposer may accept the petition for integration or ask the petitioner to provide justification. Justification requires the petitioner to show impact by the proposal in two specific areas :
 
 * Does the proposal impact the petitioner's role?
+ 
 * Does the proposal have a perceived impact that would cause substantial harm to the organization?
 
 If the petitioner can not provide reasonable answers to these questions, the petition is considered to be *not valid* and the facilitator moves back to the start of the integration section.
