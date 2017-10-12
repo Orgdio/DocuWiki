@@ -10,9 +10,9 @@ We believe that the best way to create, validate, and evolve these methodologies
 4) The community of org-designers takes this feedback and alters the modules in an attempt to improve them.
 5) Rinse and repeat.
 
-We draw inspiration from the open-sourced software community that follows a similar pattern to great effect. For more information on works that we inspired by, see our [Inspirations page](http://orgd.io/inspirations).
+We draw inspiration from the open-sourced software community that follows a similar pattern to great effect. For more information on works that we inspired by, see our [[inspirations|Inspirations page]].
 # Orgdio Core Values
-Our core values are: #1 Purpose Driven, #2 Evolve, #3 Community Focused, #4 Open-Sourced and Self-Governed. To learn more detail about our core values check out [Core Values page](http://orgd.io/orgdio-core-values)
+Our core values are: #1 Purpose Driven, #2 Evolve, #3 Community Focused, #4 Open-Sourced and Self-Governed. To learn more detail about our core values check out [[core_values|Core Values page]]
 
 ====== Orgdio Community ======
 We are just getting started with our initial community initiation and growth efforts. We are excited about the opportunities that lay ahead. To learn more or to get involved check our out our [Community page](http://orgd.io/community-member-page).
