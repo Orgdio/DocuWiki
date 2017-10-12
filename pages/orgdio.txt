@@ -20,7 +20,7 @@ We draw inspiration from the open-sourced software community that follows a simi
 To learn more detail about our core values check out [[core_values|Core Values page]]
 
 ====== Orgdio Community ======
-We are just getting started with our initial community initiation and growth efforts. We are excited about the opportunities that lay ahead. To learn more or to get involved check our out our [Community page](http://orgd.io/community-member-page).
+We are just getting started with our initial community initiation and growth efforts. We are excited about the opportunities that lay ahead. To learn more or to get involved check our out our [[community_member_page|Community Member Page]].
 
 ====== Orgdio Governance and Roles ======
 
