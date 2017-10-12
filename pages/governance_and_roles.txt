@@ -1,0 +1,100 @@
+====== Governance and Roles ======
+==== Governance ====
+
+We endeavor to make orgdio a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, helping beginners and experts alike.
+
+We believe in providing an open, amicable environment for people to contribute pursuant to our Code of Conduct Policy.
+
+Our governance encourages a bottom-up approach. All responsibilities and all abilities are available to all community members unless restricted by a current role.
+
+The plan for orgdio is to embrace knowledge and understanding of all forms of SM. The goal is to explore and improve SM in any way possible.
+
+The governance structure of orgdio will follow these guidelines:
+
+  * provide a space where any contribution is available to anyone unless otherwise restricted
+  * provide modules for restricting authority to a specific role (ie Speed Governance Module)
+  * allow changes to the governance of the community as long as it supports the core values
+  * ensure transparency of orgdio decisions
+
+Any community member may call for governance to be processed at any time. Role assignments/assignments are done by a process of majority vote. (For clarity, it is probable that majority vote for role assignments is the best or most scalable way to conduct this activity but works current at current capacity)
+
+==== Roles ====
+
+**Community Member**
+
+Purpose: To add your unique value and perspective to the Orgd.io community
+
+Accountability: Aligning with practices defined by the community practices role
+
+Role Holder: John Bunch, Alexis Gonzales-Black, Dustin Sitar
+
+----
+** Orgd.io Vision and Guiding Principles**
+
+Purpose: An inspiring vision for what wild success looks like for Orgd.io
+
+Accountabilities: 
+  * Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
+  * Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
+
+Role Holder: John Bunch
+
+----
+** Technology **
+
+Purpose: Technology tools that enable Orgd.io at large to express its purpose
+
+Accountabilities: 
+  * Maintaining the Orgd.io public website
+  * Maintaining a technology platform that allows community discussion/module evolution
+
+Role Holder: John Bunch, Dustin Sitar
+
+----
+** Finance **
+
+Purpose: Ensure Orgdio has the financial means to enact and operate its governance as well as to grow the community.
+
+Accountabilities:
+  * Creating financial systems that align with the Orgdio Vision.
+
+Role Holder: Dustin Sitar
+
+----
+** Community Engagement/Growth **
+
+Purpose: Create a vibrant ecosystem that fosters open and honest discussions about how organizations can grow into better versions of themselves.
+
+Accountabilities:
+  * Ensuring that the community is meeting the needs of its users.
+  * Growing the community at a sustainable rate wherein we can maintain a level of cohesion and ensure that the community is adhering to community practices.
+
+Role Holders: Alexis Gonzales-Black, John Bunch
+
+----
+** Initial Module Creation **
+
+Purpose: A full set of organizational modules that an organization could choose from to create a fully operational setup.
+
+Accountabilities: 
+  * Creating a taxonomy for organizational modules to help with discovery.
+
+Role Holders: Alexis Gonzales-Black, John Bunch
+
+----
+** Community Practices **
+
+Purpose: A set of defined practices that maximize community engagement, discussion, ideation, and evolution.
+
+Role Holder: Dustin Sitar
+
+----
+** Feedback Specialist **
+
+Purpose: To find opportunities for and create positive feedback loops that help Orgdio run smoothly and achieve its overall purpose.
+
+Accountabilities: 
+  * Creating a methodology for understanding how much different community members are adding to the community in such a way that also lends itself to a positive collaborative community spirit.
+  * Creating a methodology for understanding which organizational models are working and which ones are not.
+
+Role Holder: John Bunch, Dustin Sitar
