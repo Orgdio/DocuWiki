@@ -24,5 +24,5 @@ We are just getting started with our initial community initiation and growth eff
 
 ====== Orgdio Governance and Roles ======
 
-Orgdio is a self-governed open source project. Being open source and bottom-up will allow the most effective and useful methodologies to emerge. The [Governance and Roles](http://orgd.io/Governance-and-Roles) page has our current structure.
+Orgdio is a self-governed open source project. Being open source and bottom-up will allow the most effective and useful methodologies to emerge. The [[governance_and_roles|Governance and Roles]] page has our current structure.
 
