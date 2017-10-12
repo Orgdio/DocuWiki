@@ -17,23 +17,23 @@ Bottom up is a paradigm where all decision making authority is, by default, open
 
 As a new organization gets started with this process, its first priority should be to delegate authority in areas where not doing so could lead to irreparable harm. For instance, putting a process in place for how groups can spend money/expend the company's resources is likely a good idea. Without such a process any group could spend any amount of money they saw fit, which could lead to irreparable harm if a group spent so much as to put the organization in a bad financial situation. See this document for a list of Starting Bottom Up Decision Making Restrictions (https://quip.com/j3RKAebOlXPQ).
 
-# What should be included in a Decision Authority Grant?
+===== What should be included in a Decision Authority Grant? =====
 
-## What (Required)
+==== What (Required) ====
 
 Define the decision making authority that is being granted and to what group.
 
 This definition should be a clear as possible. Prioritize clarity over brevity.
 
-## How (Optional)
+==== How (Optional) ====
 
 Unless specified, the group who is granted the decision making authority has the ability to self-govern how the grant is unpacked. However, the group who is granting the authority can specify a specific methodology. For example, a specific grant may require a majority vote of the group in order to make a decision, or, a grant may specify that a single individual, decided by the group, must hold the authority.
 
-## Term (Optional)
+==== Term (Optional) ====
 
 Unless specified, the term of the grant is indefinite and may be altered via the governance process of the granting group at any time. The granting group may specify a term. For example, a specific grant is given for exactly six months from the date of passage. At the end of the term the grant is automatically rescinded and the governance returns to its previous status.
 
-## Examples
+==== Examples ====
 
 What: “The definition of an organization's core values.”
 How: “A change to the organization's core values may be processed by a 2/3 majority of all members vote to affirm the new core values”
