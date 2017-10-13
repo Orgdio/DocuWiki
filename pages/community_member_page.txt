@@ -8,7 +8,7 @@ Self Management is not a new form of business model. (In fact, the hierarchical 
 
 Enter Orgdio, an open source community created to match the flexibility and adaptability of the self-management systems it creates. **Why would a system that is designed to help a company be adaptable, flexible, and evolutionary be stagnant, rigid, and inert?** Orgdio is a platform that enables the management model to be as malleable as needed.
 
-If you would like to be part of our growing community please send an e-mail to community@orgd.io with your name and a little background about yourself.
+If you would like to be part of our growing community please send an e-mail to orgdio@gmail.com with your name and a little background about yourself.
 
 ==== Current Contributors ====
 
