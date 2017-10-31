@@ -12,7 +12,7 @@ If you would like to be part of our growing community please send an e-mail to o
 
 ==== Current Contributors ====
 
-[[http://orgd.io/community-member-page/john-bunch|John Bunch]] Thoughtful Org Partners, Zappos
+[[http://orgd.io/doku.php?id=user:johnbunch|John Bunch]] Thoughtful Org Partners, Zappos
 
 [[http://orgd.io/community-member-page/AlexisGonzalesBlack|Alexis Gonzales-Black]] Thoughtful Org Partners, IDEO
 
